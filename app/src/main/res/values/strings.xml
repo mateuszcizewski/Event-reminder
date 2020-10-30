@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Countdown timer</string>
+    <string name="name_hint">Type countdown name</string>
+    <string name="alarm">Alarm</string>
+    <string name="select_date">Select Date</string>
+    <string name="add_10_countdown">Add\ncountdown</string>
+    <string name="selected_date">selected date</string>
+    <string name="no_alarm">No alarm set</string>
+    <string name="alarm_enabled">alarm enabled</string>
+</resources>
